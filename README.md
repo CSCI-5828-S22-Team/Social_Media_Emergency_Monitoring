@@ -1,10 +1,10 @@
 # Team JRPR
-##CSCI 5828-001: Foundations of Software Engineering
+## CSCI 5828-001: Foundations of Software Engineering
 ### Team members:
-*Parker Morris 
-*Rawshon Ferdaws
-*Rhett Hanscom 
-*Jhansi Saketa B V 
+* Parker Morris 
+* Rawshon Ferdaws
+* Rhett Hanscom 
+* Jhansi Saketa B V 
 ### Social Media Emergency Monitoring
 A web application which monitors real-time social media data and alerts its users of impending emergencies in their area.
 ### Methodology and Architecture
