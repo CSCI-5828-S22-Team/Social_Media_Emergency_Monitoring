@@ -1,11 +1,13 @@
 
 
-TO RUN DATA ACQUISITION TESTS:
+TO RUN DATA ACQUISITION TESTS
+```
 $ social_media_emergency_monitoring/tests/data_acquisition/
 $ python3 run_tests.py
+```
 
 EXPECTED OUTPUT:
-
+```
 ----RUNNING DATA ACQUISITION TESTS----
 	* read_in_tweets	-	SUCCESS
 	* check_length		-	SUCCESS
@@ -16,3 +18,4 @@ EXPECTED OUTPUT:
 	* mock_api		-	SUCCESS
 
 	✅ ✅ ✅ ✅ ✅ ✅ ✅ 
+```
