@@ -1,6 +1,6 @@
 
 
-TO RUN DATA ACQUISITION TESTS
+**TO RUN DATA ACQUISITION TESTS**
 ```
 $ social_media_emergency_monitoring/tests/data_acquisition/
 $ python3 run_tests.py
