@@ -1,5 +1,9 @@
 # Team JRPR
 ## CSCI 5828-001: Foundations of Software Engineering
+
+## Important Note: This repo does not house our full codebase, but is instead here mostly to ensure our wiki is publicly availible. Our codebase can be accessed [here.](https://github.com/bvjhansisaketa/jrprWebsite)
+
+
 ### Team members:
 * Parker Morris 
 * Rawshon Ferdaws
