@@ -24,6 +24,7 @@ The Projects notifies the users when there is an emergency like fires, earthquak
 10. Continuous Deployment - Heroku
 11. Monitoring - Github Actions and Heroku
 12. Message Queuing - RabbitMQ
+13. Resources (Heroku) - Cronjob, CloudAMQP
 
 ### Architecture
 ![image](https://github.com/CSCI-5828-S22-Team/Social_Media_Emergency_Monitoring/blob/main/images/architecture.png)
