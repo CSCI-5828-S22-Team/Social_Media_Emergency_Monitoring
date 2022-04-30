@@ -15,11 +15,9 @@ A web application which monitors real-time social media data and alerts its user
 ![image](AlertingSystemDiag.png)
 ### Pivotal Tracker Link
 https://www.pivotaltracker.com/n/projects/2557033
-### Heroku Link
-https://samplewebpagesoftwareeng.herokuapp.com/
 ### Burndown Chart
 https://app.asana.com/0/dashboard/1202053211749706
-### Link to Project
+### Link to Project (Heroku Link)
 https://alertingsystem.herokuapp.com/
 ### Repo / Codebase
 https://github.com/bvjhansisaketa/jrprWebsite
