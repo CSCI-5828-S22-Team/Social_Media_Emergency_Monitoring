@@ -3,6 +3,10 @@
 
 ## Important Note: This repo does not house our full codebase, but is instead here mostly to ensure our wiki is publicly availible. Our codebase can be accessed [here.](https://github.com/bvjhansisaketa/jrprWebsite)
 
+## After our class presentation, we accomplished the following tasks:
+* Moved the data collection and data analysis functions to their own files
+* Removed calls to data collection and data analysis functions from main and scheduled them to be called from Heroku cron jobs
+* Added RabbitMQ message passing between data collection / data analysis / sending alert functions
 
 ### Team members:
 * Parker Morris 
